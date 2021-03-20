@@ -1,6 +1,7 @@
-print("#################################################")
-print("          soma dois números inteiros")
-print("#################################################")
+from cria_banner import banner
+
+nome_programa = "soma dois números v1.0"
+banner(nome_programa)
 
 n1 = int(input("insira o primeiro número para realizar a soma: "))
 print("o número inserido foi {}".format(n1))

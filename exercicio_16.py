@@ -1,8 +1,8 @@
 import math
+from cria_banner import banner
 
-print("###################################################")
-print("               cálculo tintas")
-print("###################################################")
+nome_programa = "calculadora de utilização de tinha v1.0"
+banner(nome_programa)
 
 area_pintura = float(input("insira a área a ser pintada em m²: "))
 litros_utilizados = area_pintura / 3

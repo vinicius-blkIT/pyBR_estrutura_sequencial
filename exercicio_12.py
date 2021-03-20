@@ -1,6 +1,7 @@
-print("###################################################")
-print("  cálculo de peso ideal - para homens e mulheres")
-print("###################################################")
+from cria_banner import banner
+
+nome_programa = "calculadora de peso ideal v1.0"
+banner(nome_programa)
 
 nome = input("insira o seu nome para iniciarmos: ")
 print("olá {}, tudo bem? vamos prosseguir.".format(nome))

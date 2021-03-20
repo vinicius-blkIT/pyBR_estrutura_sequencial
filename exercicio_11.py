@@ -1,6 +1,7 @@
-print("#################################################")
-print("             calculos diversos")
-print("#################################################")
+from cria_banner import banner
+
+nome_programa = "cálculos diversos v1.0"
+banner(nome_programa)
 
 n1 = int(input("insira um número inteiro: "))
 n2 = int(input("insira outro número inteiro: "))

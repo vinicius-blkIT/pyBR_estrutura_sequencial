@@ -1,6 +1,7 @@
-print("#################################################")
-print("   calculador do dobro da área de um quadrado")
-print("#################################################")
+from cria_banner import banner
+
+nome_programa = "calcula o dobro da área de um quadrado v1.0"
+banner(nome_programa)
 
 lado = float(input("insira o tamanho dos lados, em centímetros, do quadrado para ser calculado: "))
 

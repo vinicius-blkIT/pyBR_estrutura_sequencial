@@ -1,6 +1,7 @@
-print("########################################################")
-print("calculadora de salário com descontos - IR/INSS/sindicato")
-print("########################################################")
+from cria_banner import banner
+
+nome_programa = "calculadora de salários com descontos v1.0"
+banner(nome_programa)
 
 horas_trabalhadas = float(input("insira a quantidade de horas trabalhadas: "))
 valor_por_hora = float(input("insira o valor por hora trabalhada: R$"))

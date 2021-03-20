@@ -1,6 +1,7 @@
-print("###################################################")
-print("    cálculadora de multas sobre peso excedente")
-print("###################################################")
+from cria_banner import banner
+
+nome_programa = "calculadora de multas sobre peso excedente v1.0"
+banner(nome_programa)
 
 multa_excesso = 4
 limite_peso = 50

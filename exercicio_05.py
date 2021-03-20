@@ -1,6 +1,7 @@
-print("#################################################")
-print("      conversor de metros para centímetros")
-print("#################################################")
+from cria_banner import banner
+
+nome_programa = "conversor de metros para centímetros v1.0"
+banner(nome_programa)
 
 metros = (float(input("insira a medida a ser convertida de metros para centímetros: ")))
 

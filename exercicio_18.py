@@ -1,6 +1,7 @@
-print("###################################################")
-print("            calculadora de downloads")
-print("###################################################")
+from cria_banner import banner
+
+nome_programa = "calculadora de tempo de download v1.0"
+banner(nome_programa)
 
 tamanho_arquivo = float(input("insira o tamanho do arquivo em MB: "))
 velocidade_internet = float(input("insira a velocidade do seu link de internet em Mbps: "))

@@ -1,8 +1,8 @@
 import math
+from cria_banner import banner
 
-print("###################################################")
-print("               cálculo tintas v2")
-print("###################################################")
+nome_programa = "calculadora de utilização de tinta - galões e latas - v1.0"
+banner(nome_programa)
 
 area_pintura = float(input("insira a área a ser pintada em m²: "))
 cobertura_tinta = 6

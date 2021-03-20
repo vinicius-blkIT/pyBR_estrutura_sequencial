@@ -1,6 +1,7 @@
-print("#################################################")
-print("       calculadora do salário mensal")
-print("#################################################")
+from cria_banner import banner
+
+nome_programa = "calculadora de salário mensal v1.0"
+banner(nome_programa)
 
 colaborador = input("insira o nome do colaborador em questão: ")
 valor_da_hora = float(input("insira o valor da hora trabalhada: "))
