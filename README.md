@@ -1,15 +1,15 @@
-##lista de exercícios - estrutura sequencial
+## lista de exercícios - estrutura sequencial
 
-###exercicio_01
+### exercicio_01
 [x] Faça um Programa que mostre a mensagem "Alo mundo" na tela.
 
-###exercicio_02
+### exercicio_02
 [x] Faça um Programa que peça um número e então mostre a mensagem *O número informado foi [número]*.
 
-###exercicio_03
+### exercicio_03
 [x] Faça um Programa que peça dois números e imprima a soma.
 
-###exercicio_04
+### exercicio_04
 [x] Faça um Programa que peça as 4 notas bimestrais e mostre a média.
 [x] Faça um Programa que converta metros para centímetros.
 [x] Faça um Programa que peça o raio de um círculo, calcule e mostre sua área.
