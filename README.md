@@ -1,7 +1,7 @@
 lista de exercícios - estrutura sequencial
 
-1. [x] Faça um Programa que mostre a mensagem "Alo mundo" na tela.
-2. [x] Faça um Programa que peça um número e então mostre a mensagem *O número informado foi [número]*.
+[x] 1. Faça um Programa que mostre a mensagem "Alo mundo" na tela.
+[x] 2. Faça um Programa que peça um número e então mostre a mensagem *O número informado foi [número]*.
 3. [x] Faça um Programa que peça dois números e imprima a soma.
 4. [x] Faça um Programa que peça as 4 notas bimestrais e mostre a média.
 5. [x] Faça um Programa que converta metros para centímetros.
@@ -26,17 +26,12 @@ estado de São Paulo (50 quilos) deve pagar uma multa de R$ 4,00 por
 quilo excedente. João precisa que você faça um programa que leia a
 variável *peso* (peso de peixes) e calcule o excesso. Gravar na variável *excesso* a quantidade de quilos além do limite e na variável *multa* o valor da multa que João deverá pagar. Imprima os dados do programa com as mensagens adequadas.
 15. [x] Faça um Programa que pergunte quanto você ganha por hora e o número de horas trabalhadas no mês. Calcule e mostre o total do seu salário no referido mês, sabendo-se que são descontados 11% para o Imposto de Renda, 8%
-para o INSS e 5% para o sindicato, faça um programa que nos dê:
-    * salário bruto.
-    * quanto pagou ao INSS.
-    * quanto pagou ao sindicato.
-    * o salário líquido.
-    * calcule os descontos e o salário líquido, conforme a tabela abaixo: Obs.: Salário Bruto - Descontos = Salário Líquido.
-        + Salário Bruto : R$
-        - IR (11%) : R$
-        - INSS (8%) : R$
-        - Sindicato ( 5%) : R$
-        = Salário Liquido : R$
+para o INSS e 5% para o sindicato, faça um programa que conforme a tabela abaixo:
+        * + Salário Bruto : R$
+        * - IR (11%) : R$
+        * - INSS (8%) : R$
+        * - Sindicato ( 5%) : R$
+        * = Salário Liquido : R$
 
 16. [x] Faça um programa para uma loja de tintas. O programa deverá pedir o tamanho
 em metros quadrados da área a ser pintada. Considere que a cobertura da
